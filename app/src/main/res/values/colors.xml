@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="black_text">#363636</color>
+    <color name="gray_light">#97e4e4e4</color>
+    <color name="gray_border">#9cc7c7c7</color>
+    <color name="gray_light2">#ececec</color>
+    <color name="gray_dark">#454545</color>
+    <color name="spotify_black_dark">#151515</color>
+    <color name="spotify_black_light">#1e1e1e</color>
+</resources>
